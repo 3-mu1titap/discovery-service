@@ -1,4 +1,4 @@
-package com.example.discovery;
+package com.multitap.discovery;
 
 import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 import org.springframework.boot.SpringApplication;

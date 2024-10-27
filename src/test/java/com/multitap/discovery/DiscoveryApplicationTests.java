@@ -1,4 +1,4 @@
-package com.example.discovery;
+package com.multitap.discovery;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
