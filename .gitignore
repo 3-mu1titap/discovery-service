@@ -3,6 +3,9 @@
 build/
 gradle/wrapper/gradle-wrapper.jar
 
+/src/main/resources/application.yml
+/src/main/resources/
+
 ### STS ###
 .apt_generated
 .classpath
