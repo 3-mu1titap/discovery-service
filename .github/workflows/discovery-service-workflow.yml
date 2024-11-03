@@ -3,9 +3,9 @@ name: discovery-service-workflow.yml
 on:
   workflow_dispatch: # 수동 실행 (테스트)
   push:
-    branches: [ "develop" ]
+    branches: [ "develop", "main" ]
   pull_request:
-    branches: [ "develop" ]
+    branches: [ "develop", "main" ]
 
 jobs:
   build:
